@@ -3,7 +3,7 @@
 
 # Sobre o projeto
  O cadastro-django trata-se de desenvolvimento de uma tela para cadastro, login e logout do usuário, o login e todas as telas são responsivas e foi utilizado o Django Templates.
-Foi feita a estilização simples e usado o Bootstrap para fazê-la e foi feito também nesse projeto o sistema de autenticação já existente do Django. Em seguida, foi providenciada uma rota REST para todos os usuários cadastrados e exigida autenticação do usuário para acesso das informações. Nesse projeto foi instalado o app django-crispy-forms que é responsável pela estilização da página de cadastro. As rotas para acesso às páginas accounts/signup, login e logout dão entrada a toda a parte de cadastro, login e logout do usuário do projeto cadastro-django.
+Foi feita a estilização simples e usado o Bootstrap para fazê-la e foi feito também nesse projeto o sistema de autenticação já existente do Django. Em seguida, foi providenciada uma rota REST para todos os usuários cadastrados e exigida autenticação do usuário para acesso das informações. Nesse projeto foi instalado o app django-crispy-forms que é responsável pela estilização da página de cadastro. As rotas para acesso às páginas accounts/signup, login e logout dão entrada a toda a parte de cadastro, login e logout do usuário do projeto personalizar-user-django.
 
 ## Imagem da página de cadastro
 <div align="center">
@@ -23,7 +23,7 @@ Foi feita a estilização simples e usado o Bootstrap para fazê-la e foi feito 
 
 ```bash
 # Clonar repositório
-git clone https://github.com/LombaAnderson/cadastro-django
+git clone https://github.com/LombaAnderson/personalizar-user-django
 
 # Criação do ambiente de desenvolvimento do Python
 -python -m venv venv
