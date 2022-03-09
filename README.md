@@ -1,5 +1,5 @@
-# cadastro-django
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/LombaAnderson/cadastro-django/blob/main/LICENSE)
+# personalizar-user-django
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/LombaAnderson/personalizar-user-django/blob/main/LICENSE)
 
 # Sobre o projeto
  O cadastro-django trata-se de desenvolvimento de uma tela para cadastro, login e logout do usuário, o login e todas as telas são responsivas e foi utilizado o Django Templates.
