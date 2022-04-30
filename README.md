@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LombaAnderson/personalizar-user-django/blob/main/LICENSE)
 
 # Sobre o projeto
- O cadastro-django trata-se de desenvolvimento de uma tela para cadastro, login e logout do usuário, o login e todas as telas são responsivas e foi utilizado o Django Templates.
+ O cadastro-django se trata de desenvolvimento de uma tela para cadastro, login e logout do usuário, o login e todas as telas são responsivas e foi utilizado o Django Templates.
 Foi feita a estilização simples e usado o Bootstrap para fazê-la e foi feito também nesse projeto o sistema de autenticação já existente do Django. Em seguida, foi providenciada uma rota REST para todos os usuários cadastrados e exigida autenticação do usuário para acesso das informações. Nesse projeto foi instalado o app django-crispy-forms que é responsável pela estilização da página de cadastro. As rotas para acesso às páginas accounts/signup, login e logout dão entrada a toda a parte de cadastro, login e logout do usuário do projeto personalizar-user-django.
 
 ## Imagem da página de cadastro
